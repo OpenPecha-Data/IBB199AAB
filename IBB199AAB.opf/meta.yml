@@ -1,0 +1,25 @@
+id: IBB199AAB
+initial_creation_type: ebook
+source_metadata:
+  id: MIN-MP-02
+  title: ༄༅། བཀའ་གསང་རྫོགས་པ་ཆེན་པོ་དཀོན་མཆོག་སྤྱི་འདུས་ཀྱི་ཁྲིད་ཡིག་མན་ངག་གསལ་སྒྲོན་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  author: མཛད་པ་པོ། སྨིན་གླིང་རྗེ་བཙུན་མི་འགྱུར་དཔལ་སྒྲོན།
+  authors: &id001
+  - མཛད་པ་པོ། སྨིན་གླིང་རྗེ་བཙུན་མི་འགྱུར་དཔལ་སྒྲོན།
+  sku: MIN-MP-02
+  cover: MIN-MP-02.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། བཀའ་གསང་རྫོགས་པ་ཆེན་པོ་དཀོན་མཆོག་སྤྱི་འདུས་ཀྱི་ཁྲིད་ཡིག་མན་ངག་གསལ་སྒྲོན་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors: *id001
+  sku: MIN-MP-02
+  cover: MIN-MP-02.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
